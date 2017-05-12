@@ -1,0 +1,14 @@
+May 03, 2017 10:35:25 AM SeleniumBRAssignment.seleniumbrassignment.TestShoppingCartAll testShoppingCart
+INFO: Expected value in shopping cart is :(1)
+May 03, 2017 10:35:25 AM SeleniumBRAssignment.seleniumbrassignment.TestShoppingCartAll testShoppingCart
+INFO: searching for LEGO Creator 31057 Supersnurr
+May 03, 2017 10:35:25 AM SeleniumBRAssignment.seleniumbrassignment.TestShoppingCartAll testShoppingCart
+INFO: Go button works
+May 03, 2017 10:35:32 AM SeleniumBRAssignment.seleniumbrassignment.TestShoppingCartAll testShoppingCart
+INFO: Test Pass
+May 03, 2017 10:35:38 AM SeleniumBRAssignment.seleniumbrassignment.TestShoppingCartAll increaseQuantity
+INFO: Searching for a product
+May 03, 2017 10:35:54 AM SeleniumBRAssignment.seleniumbrassignment.TestShoppingCartAll increaseQuantity
+INFO: expected text is :(7)
+May 03, 2017 10:35:54 AM SeleniumBRAssignment.seleniumbrassignment.TestShoppingCartAll increaseQuantity
+INFO: Test pass

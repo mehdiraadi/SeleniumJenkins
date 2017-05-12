@@ -1,0 +1,52 @@
+May 03, 2017 10:36:44 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest verifieraWrongInput
+INFO: wrong username:jhjhWrong passwordjhjh
+May 03, 2017 10:36:44 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest verifieraWrongInput
+INFO: Preparing - testWrongLogin()
+May 03, 2017 10:36:44 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest verifieraWrongInput
+INFO: Preparing1 - testWrongLogin()
+May 03, 2017 10:36:45 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest verifieraWrongInput
+INFO: Act - testWrongLogin()
+May 03, 2017 10:36:48 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest verifieraWrongInput
+INFO: Act3 - testWrongLogin()
+May 03, 2017 10:36:59 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest verifieraWrongInput
+INFO: Test passed
+May 03, 2017 10:37:10 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: Successfully chose a product
+May 03, 2017 10:37:14 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: Product is in shopping cart
+May 03, 2017 10:37:16 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: Basket updated
+May 03, 2017 10:37:21 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: Entered correct mail id
+May 03, 2017 10:37:21 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: Email id confirmed
+May 03, 2017 10:37:22 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: Going to payment page
+May 03, 2017 10:37:25 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: brSe-creditcard
+May 03, 2017 10:37:25 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: Different payment options
+May 03, 2017 10:37:25 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: brSe-bank
+May 03, 2017 10:37:25 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: Different payment options
+May 03, 2017 10:37:25 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: brSe-onlineinvoice
+May 03, 2017 10:37:25 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: Different payment options
+May 03, 2017 10:37:26 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: Different payment options are choosable
+May 03, 2017 10:37:26 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testPayment
+INFO: Test pass. The user is able to choose from different payment options
+May 03, 2017 10:37:33 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testCategoryButton
+INFO: [Byggklossar & byggleksaker, Kreativitetsleksaker & pyssel för barn, Vetenskap för barn, Musikinstrument för barn, Pussel, Rollspel, Skolstart, Målarböcker, målarfärger & teckningstillbehör, Utklädnad och tillbehör]
+May 03, 2017 10:37:33 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testCategoryButton
+INFO: Whole category list printed out
+May 03, 2017 10:37:33 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest testCategoryButton
+INFO: Test pass
+May 03, 2017 10:37:39 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest ztestSearchBarFunction
+INFO: Go button works
+May 03, 2017 10:37:43 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest ztestSearchBarFunction
+INFO: Expected is :
+May 03, 2017 10:37:43 AM SeleniumBRAssignment.seleniumbrassignment.FunctionalTest ztestSearchBarFunction
+INFO: Search bar works perfect and tast pass

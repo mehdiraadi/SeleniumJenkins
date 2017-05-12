@@ -1,0 +1,30 @@
+Apr 26, 2017 11:49:10 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment resetData
+INFO: info
+Apr 26, 2017 11:49:11 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: Successfully chose a product
+Apr 26, 2017 11:49:14 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: Product is in shopping cart
+Apr 26, 2017 11:49:16 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: Basket updated
+Apr 26, 2017 11:49:20 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: Entered correct mail id
+Apr 26, 2017 11:49:21 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: Email id confirmed
+Apr 26, 2017 11:49:21 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: Going to payment page
+Apr 26, 2017 11:49:23 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: brSe-creditcard
+Apr 26, 2017 11:49:23 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: Different payment options
+Apr 26, 2017 11:49:23 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: brSe-bank
+Apr 26, 2017 11:49:23 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: Different payment options
+Apr 26, 2017 11:49:23 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: brSe-onlineinvoice
+Apr 26, 2017 11:49:23 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: Different payment options
+Apr 26, 2017 11:49:25 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: Different payment options are choosable
+Apr 26, 2017 11:49:25 PM SeleniumBRAssignment.seleniumbrassignment.TestPayment testPayment
+INFO: Test pass. The user is able to choose from different payment options
